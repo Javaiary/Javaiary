@@ -5,7 +5,7 @@
 
 
 ### Hi there 👋👋👋
-(~~~) 최나리입니다.
+(~~~) 최나리입니다.<br>
 <a href = "https://javaiary.tistory.com/" target = "blank" style="text-decoration : none;color:black;" >✏️ 블로그</a>
 
 
