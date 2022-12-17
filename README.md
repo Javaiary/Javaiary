@@ -6,7 +6,7 @@
 
 ### Hi there 👋👋👋
 (~~~) 최나리입니다.<br>
-<a href = "https://javaiary.tistory.com/" target = "blank" style="text-decoration : none;color:black;" >✏️ 블로그</a>
+<a href = "https://javaiary.tistory.com/" target = "blank" style="text-decoration : none;color: inherit;" >✏️ 블로그</a>
 
 
 </div>
