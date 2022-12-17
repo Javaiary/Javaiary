@@ -33,8 +33,8 @@ Developers looking to the future rather than the present
 
 <div align="center">
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nari-Choi&show_icons=true&theme=tokyonight) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nari-Choi&layout=compact&theme=dracula)](https://github.com/metleeha)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Javaiary&show_icons=true&theme=tokyonight) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javaiary&layout=compact&theme=dracula)](https://github.com/metleeha)
 
 </div>
 
