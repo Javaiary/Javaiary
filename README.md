@@ -4,9 +4,9 @@
 <div align="center">
 
 
-### Hi there 👋
+### Hi there 👋👋👋
 (~~~) 최나리입니다.
-
+<a href = "https://javaiary.tistory.com/" target = "blank" style="text-decoration : none;color:black;" >✏️ 블로그</a>
 
 
 </div>
