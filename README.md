@@ -33,13 +33,13 @@ Developers looking to the future rather than the present
 
 <div align="center">
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nari Choi&show_icons=true&theme=tokyonight) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nari Choi&layout=compact&theme=dracula)](https://github.com/metleeha)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nari-Choi&show_icons=true&theme=tokyonight) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nari-Choi&layout=compact&theme=dracula)](https://github.com/metleeha)
 
 </div>
 
 <!--
-**Nari Choi/Nari Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nari-Choi/Nari-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
