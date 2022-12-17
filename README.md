@@ -39,7 +39,7 @@ Developers looking to the future rather than the present
 </div>
 
 <!--
-**Nari-Choi/Nari-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Javaiary/Nari-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
