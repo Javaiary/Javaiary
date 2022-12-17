@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Nari&fontSize=90" />
 </div>
 <div align="center">
-Developers looking to the future rather than the present
+
 
 ### Hi there 👋
 (~~~) 최나리입니다.
