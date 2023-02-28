@@ -1,13 +1,13 @@
 <div align="center">  
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Nari&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=NARI&fontSize=90" />
 </div>
 <div align="center">
 
 
-### Hi there 👋👋👋
-(~~~) 최나리입니다.<br>
+### 🫵 Have a nice day!!
+😊배움이 즐거운 개발자 최나리입니다.<br>
 <a href = "https://javaiary.tistory.com/" target = "blank" style="text-decoration : none;color: inherit;" >✏️ 블로그</a>
-
+<a href = "https://www.notion.so/25730c37dd8e459fa4dcd1b7603d0d0c" target = "blank" style="text-decoration : none;color: inherit;" > 📕스터디 노션</a>
 
 </div>
 <hr>
@@ -22,12 +22,15 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"> 
 <br>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"> 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white" />
 </div><br>
 <hr>
 
