@@ -5,7 +5,6 @@
 
 
 ### 🫵 Have a nice day!!
-😊배움이 즐거운 개발자 최나리입니다.<br>
 <a href = "https://javaiary.tistory.com/" target = "blank" style="text-decoration : none;color: inherit;" >✏️ 블로그</a><br>
 <a href = "https://www.notion.so/25730c37dd8e459fa4dcd1b7603d0d0c" target = "blank" style="text-decoration : none;color: inherit;" > 📕스터디 노션</a>
 
